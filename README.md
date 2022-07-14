@@ -18,8 +18,8 @@ Github Open Source Project URL： https://github.com/CHKEric/MusicPlayer/
 
 Github开源项目URL：https://github.com/CHKEric/MusicPlayer/
 
-版本：1.02
+版本：1.0
 
-Version: 1.02
+Version: 1.0
 
 @CHKEric 2022，4th item
