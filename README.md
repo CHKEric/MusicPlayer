@@ -12,11 +12,11 @@ Endless Loop - Homebrew Project (python program)
 
 Homemade projects,open source. This item is owned by CHKEric.    
 
-Github Pages URL： [https://chkeric.github.io/MusicPlayer]
+Github Pages URL： https://chkeric.github.io/MusicPlayer
 
-Github Open Source Project URL： [https://github.com/CHKEric/MusicPlayer/]
+Github Open Source Project URL： https://github.com/CHKEric/MusicPlayer/
 
-Github开源项目URL：[https://github.com/CHKEric/MusicPlayer/]
+Github开源项目URL：https://github.com/CHKEric/MusicPlayer/
 
 版本：1.02
 
