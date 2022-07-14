@@ -1,0 +1,2 @@
+基于 Python3.7，Easygui 0.98.3，Pygame2.1.2。
+请自行安装Python和必备库。
